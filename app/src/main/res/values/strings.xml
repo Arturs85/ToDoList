@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="activity_ierakstaSaturs_name">Ieraksts</string>
+    <string name="pogasUzrakstsJauns">Jauns ieraksts</string>
+    <string name="pogasUzrakstsPievienot">Saglabāt</string>
+    <string name="pogasUzrakstsDzest">Dzēst ierakstu</string>
+
+</resources>
